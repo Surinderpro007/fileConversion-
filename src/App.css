@@ -17,6 +17,13 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.custom-tooltip {
+  background-color: violet !important;
+  color: white !important;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
 
 @keyframes logo-spin {
   from {

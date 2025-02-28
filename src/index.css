@@ -1,3 +1,4 @@
+@import "tailwindcss";
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -10,7 +11,10 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+
   -moz-osx-font-smoothing: grayscale;
+  max-width: 1500px;
+  margin: auto;
 }
 
 a {
@@ -45,10 +49,12 @@ h1 {
   align-items: center;
   margin: 20px 0;
 }
-
 .custom-tooltip {
-  --bs-tooltip-bg: var(--bd-violet-bg);
-  --bs-tooltip-color: var(--bs-white);
+  background-color: violet !important;
+  color: white !important;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 5px;
 }
 button {
   border-radius: 8px;
@@ -95,4 +101,61 @@ button:focus-visible {
   margin: 10px 0;
   border-radius: 10px;
   overflow: hidden;
+}
+
+/* Yt  */
+
+.feed-container {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.feed-list {
+   gap: 5px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+
+
+.feed-item {
+  width: 280px;
+  margin: 15px;
+
+}
+
+.feed-image {
+  width: 100%;
+  border-radius: 8px;
+  max-width: 280px;
+  max-height: 170px;
+  height: auto;
+  object-fit: cover;
+}
+
+.feed-details {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  text-align: start;
+  gap: 10px;
+}
+
+.channel-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+.feed-text h2 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.feed-text p {
+  font-size: 14px;
+  color: #555;
+  margin: 2px 0;
 }

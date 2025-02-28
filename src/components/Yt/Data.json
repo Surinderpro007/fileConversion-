@@ -1,0 +1,272 @@
+[
+    {
+      "id": "vid001",
+      "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "PopBeats",
+      "title": "2025 Pop Music Countdown",
+      "channel_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.4M",
+      "date": "3 days ago"  
+    },
+    {
+      "id": "vid002",
+      "image": "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "TechPulse",
+      "title": "Wearable Tech Trends 2025",
+      "channel_image": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "980K",
+      "date": "6 days ago" 
+    },
+    {
+      "id": "vid003",
+      "image": "https://images.pexels.com/photos/704971/pexels-photo-704971.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "BakeBliss",
+      "title": "Perfect Brownie Recipe",
+      "channel_image": "https://images.pexels.com/photos/428310/pexels-photo-428310.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "320K",
+      "date": "2 days ago" 
+    },
+    {
+      "id": "vid004",
+      "image": "https://images.pexels.com/photos/3825539/pexels-photo-3825539.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "GameGrid",
+      "title": "Open World Games Ranked",
+      "channel_image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "2.1M",
+      "date": "10 days ago"  
+    },
+    {
+      "id": "vid005",
+      "image": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "TrailTales",
+      "title": "Yosemite Camping Guide",
+      "channel_image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "670K",
+      "date": "5 days ago"  
+    },
+    {
+      "id": "vid006",
+      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "CodeQuest",
+      "title": "JavaScript Tips for Pros",
+      "channel_image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.3M",
+      "date": "12 days ago"
+    },
+    {
+      "id": "vid007",
+      "image": "https://images.pexels.com/photos/1630648/pexels-photo-1630648.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "FitVibe",
+      "title": "Cardio Blast Workout",
+      "channel_image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "540K",
+      "date": "1 day ago"
+    },
+    {
+      "id": "vid008",
+      "image": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "ArtVibe",
+      "title": "Acrylic Landscape Tutorial",
+      "channel_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "290K",
+      "date": "2 weeks ago"  
+    },
+    {
+      "id": "vid009",
+      "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "RoamFree",
+      "title": "Bali Travel Secrets",
+      "channel_image": "https://images.pexels.com/photos/1236701/pexels-photo-1236701.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.6M",
+      "date": "1 week ago"  
+    },
+    {
+      "id": "vid010",
+      "image": "https://images.pexels.com/photos/2085999/pexels-photo-2085999.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "CraftCore",
+      "title": "DIY Wall Art Ideas",
+      "channel_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "410K",
+      "date": "9 days ago" 
+    },
+    {
+      "id": "vid011",
+      "image": "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "RockPulse",
+      "title": "Classic Rock Revival",
+      "channel_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.1M",
+      "date": "4 days ago" 
+    },
+    {
+      "id": "vid012",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "GizmoZone",
+      "title": "Drone Tech Breakdown",
+      "channel_image": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "890K",
+      "date": "8 days ago"  
+    },
+    {
+      "id": "vid013",
+      "image": "https://images.pexels.com/photos/761854/pexels-photo-761854.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "FlavorRush",
+      "title": "Taco Tuesday Recipes",
+      "channel_image": "https://images.pexels.com/photos/428310/pexels-photo-428310.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "370K",
+      "date": "3 days ago"  
+    },
+    {
+      "id": "vid014",
+      "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "PlaySphere",
+      "title": "Mobile Gaming Hits",
+      "channel_image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.8M",
+      "date": "11 days ago"  
+    },
+    {
+      "id": "vid015",
+      "image": "https://images.pexels.com/photos/533343/pexels-photo-533343.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "NatureNest",
+      "title": "Forest Bathing Benefits",
+      "channel_image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "510K",
+      "date": "6 days ago" 
+    },
+    {
+      "id": "vid016",
+      "image": "https://images.pexels.com/photos/1181325/pexels-photo-1181325.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "TechTutorials",
+      "title": "Linux Basics Crash Course",
+      "channel_image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.2M",
+      "date": "13 days ago" 
+    },
+    {
+      "id": "vid017",
+      "image": "https://images.pexels.com/photos/3185488/pexels-photo-3185488.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "MoveMentor",
+      "title": "Stretching for Flexibility",
+      "channel_image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "630K",
+      "date": "1 day ago" 
+    },
+    {
+      "id": "vid018",
+      "image": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "InkInspire",
+      "title": "Sketching Urban Scenes",
+      "channel_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "340K",
+      "date": "2 weeks ago"  
+    },
+    {
+      "id": "vid019",
+      "image": "https://images.pexels.com/photos/221247/pexels-photo-221247.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "GlobeGlow",
+      "title": "Paris Hidden Gems",
+      "channel_image": "https://images.pexels.com/photos/1236701/pexels-photo-1236701.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.9M",
+      "date": "8 days ago"  
+    },
+    {
+      "id": "vid020",
+      "image": "https://images.pexels.com/photos/1591370/pexels-photo-1591370.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "BuildBuddy",
+      "title": "DIY Coffee Table Guide",
+      "channel_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "470K",
+      "date": "10 days ago"  
+    },
+    {
+      "id": "vid021",
+      "image": "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "FolkFusion",
+      "title": "Folk Songs Reimagined",
+      "channel_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "780K",
+      "date": "5 days ago"  
+    },
+    {
+      "id": "vid022",
+      "image": "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "FutureTech",
+      "title": "AR Glasses First Look",
+      "channel_image": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.5M",
+      "date": "9 days ago" 
+    },
+    {
+      "id": "vid023",
+      "image": "https://images.pexels.com/photos/699459/pexels-photo-699459.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "GrillGuru",
+      "title": "BBQ Ribs Masterclass",
+      "channel_image": "https://images.pexels.com/photos/428310/pexels-photo-428310.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "430K",
+      "date": "4 days ago"  
+    },
+    {
+      "id": "vid024",
+      "image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "CyberCrew",
+      "title": "Cyberpunk Game Updates",
+      "channel_image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "2.0M",
+      "date": "12 days ago"  
+    },
+    {
+      "id": "vid025",
+      "image": "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "SkySeekers",
+      "title": "Aurora Chasing Tips",
+      "channel_image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "720K",
+      "date": "1 week ago" 
+    },
+    {
+      "id": "vid026",
+      "image": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "DevDen",
+      "title": "API Development 101",
+      "channel_image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.4M",
+      "date": "2 weeks ago"  
+    },
+    {
+      "id": "vid027",
+      "image": "https://images.pexels.com/photos/4164762/pexels-photo-4164762.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "PowerFit",
+      "title": "Strength Training Basics",
+      "channel_image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "590K",
+      "date": "2 days ago" 
+    },
+    {
+      "id": "vid028",
+      "image": "https://images.pexels.com/photos/2088202/pexels-photo-2088202.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "ColorCanvas",
+      "title": "Oil Painting Techniques",
+      "channel_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "360K",
+      "date": "2 weeks ago"  
+    },
+    {
+      "id": "vid029",
+      "image": "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "JourneyJoy",
+      "title": "Santorini Sunset Vlog",
+      "channel_image": "https://images.pexels.com/photos/1236701/pexels-photo-1236701.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "1.7M",
+      "date": "9 days ago" 
+    },
+    {
+      "id": "vid030",
+      "image": "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&dpr=1",
+      "channel_name": "HomeHaven",
+      "title": "Upcycled Furniture DIY",
+      "channel_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+      "views": "520K",
+      "date": "11 days ago"  
+    }
+]

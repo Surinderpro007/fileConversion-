@@ -146,7 +146,7 @@ useEffect(() => {
 
       </div>
         </div>
-      <button className="mt-2 p-2 bg-blue-500 text-white" onClick={handleConversion}>
+      <button className="mt-2 p-2 bg-blue-500 text-white btn btn-success " onClick={handleConversion}>
         Convert
       </button>
     </div>
